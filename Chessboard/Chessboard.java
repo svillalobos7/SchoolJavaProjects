@@ -56,7 +56,7 @@ public class Chessboard
     	}
 	
 
-	//Checking the Rook positions(not completed)-due Monday
+	//Checking the Rook positions
 	public static boolean RCheck(int column, int row, int board[][])
 	{
 		int x, y;
