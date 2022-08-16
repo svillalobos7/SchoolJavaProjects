@@ -82,7 +82,7 @@ public class Chessboard
 	}
 
 
-	//Randomize the Rooks(not completed)- due Monday
+	//Randomize the Rooks
 	public static void RandomRook()
 	{
 		Random rand = new Random();
